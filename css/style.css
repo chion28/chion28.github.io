@@ -1,0 +1,81 @@
+/*
+ font-family: 'Lobster', cursive;
+font-family: 'Abril Fatface', cursive;
+*/
+html, body{
+  height: 100%;
+}
+
+
+
+
+body{
+  margin: 0;
+  padding: 0;
+  text-transform: lowercause;
+  line-height: 1.5;
+  font-family: 'Abril Fatface', cursive;
+}
+
+h1, h2 {
+  font-family: 'Lobster', cursive;
+}
+
+
+
+
+header, nav, main {
+  padding-left: 20px 30px;
+
+}
+
+
+.profile-img{
+   float:left;
+   margin-right: 60px
+}
+
+
+blockquote{
+  clear: both;
+}
+
+
+
+blockquote p {
+  clear:both;
+  padding: 20px 50px;
+  text-align: center:
+}
+
+header{
+float:left;
+}
+
+
+nav {
+  float:right;
+}
+
+
+main{
+  clear: both;
+}
+
+
+
+
+
+
+nav a {
+  padding: 10px 20px;
+}
+
+
+.home{
+  background-image:
+  url('../images/background-3.jpg');
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: cover;
+}
